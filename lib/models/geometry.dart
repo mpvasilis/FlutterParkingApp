@@ -1,4 +1,4 @@
-import 'package:gmap/models/location.dart';
+import 'package:vPark/models/location.dart';
 
 class Geometry {
   final Location location;

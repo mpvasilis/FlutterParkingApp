@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:gmap/models/place.dart';
+import 'package:vPark/models/place.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert' as convert;

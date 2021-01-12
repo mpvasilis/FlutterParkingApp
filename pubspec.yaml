@@ -1,4 +1,4 @@
-name: ParkingApp
+name: vPark
 description: Proof of Concept parking app with Flutter
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -29,6 +29,8 @@ dependencies:
   http: ^0.12.2
   flutter_rating_bar: ^3.2.0+1
   firebase_core: "0.7.0"
+  firebase_auth: "^0.20.0"
+  cloud_firestore: "^0.16.0"
 
 dev_dependencies:
   flutter_test:

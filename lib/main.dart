@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:gmap/models/place.dart';
-import 'package:gmap/screens/parking.dart';
-import 'package:gmap/services/geolocator_service.dart';
-import 'package:gmap/services/places_service.dart';
+import 'package:vPark/models/place.dart';
+import 'package:vPark/screens/parking.dart';
+import 'package:vPark/services/geolocator_service.dart';
+import 'package:vPark/services/places_service.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:provider/provider.dart';
 

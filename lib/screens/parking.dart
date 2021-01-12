@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:gmap/services/geolocator_service.dart';
-import 'package:gmap/services/marker_service.dart';
+import 'package:vPark/services/geolocator_service.dart';
+import 'package:vPark/services/marker_service.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';

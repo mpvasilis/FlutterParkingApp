@@ -1,4 +1,4 @@
-import 'package:gmap/models/place.dart';
+import 'package:vPark/models/place.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 class MarkerService {

@@ -1,4 +1,4 @@
-import 'package:gmap/models/geometry.dart';
+import 'package:vPark/models/geometry.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 class Place{
